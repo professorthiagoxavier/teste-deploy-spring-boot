@@ -6,7 +6,6 @@ import nonapi.io.github.classgraph.json.Id;
 @Data
 @Document
 public class Atividade {
-
 	@Id
 	private String id;
 	private Integer rm; 
